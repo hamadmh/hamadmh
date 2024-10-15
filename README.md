@@ -4,7 +4,7 @@
   
 **About Me:**
 
-- I'm currently working as fullstack developer @[Akamco](https://akamco.co/).
+- I'm currently working as a fullstack developer @[Akamco](https://akamco.co/).
 - 💬 I would love to connect with different people and work on projects together!
 - 📫 How to reach me: [Mohammed Diyaree](https://www.linkedin.com/in/mohammed-diary-8312a0194/)
 
