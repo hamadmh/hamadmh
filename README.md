@@ -29,7 +29,7 @@
 - 🤘 Passionate about building, learning, helping & hacking
 - 🧠 Languages: PHP, Python, JS, React, …curious about everything
 - 🍊 Favorite tech: Colorful UIs, clean APIs, fun side-projects
-- 📫 Email me: <b>mhamad.dev@gmail.com</b>
+- 📫 Email me: <b>mohammed.diyaree@ahdco.co</b>
 - 🧃 Let’s connect: [LinkedIn](https://www.linkedin.com/in/mohammed-diary-8312a0194/) | [GitHub](https://github.com/hamadmh)
   
 <td width="40%" align="center" style="padding:10px;">
