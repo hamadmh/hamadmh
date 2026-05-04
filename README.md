@@ -25,7 +25,7 @@
 <tr>
 <td width="60%">
   
-- 🏢 Fullstack Web/App Engineer at [Akamco](https://akamco.co/)
+- 🏢 Fullstack Web/App Engineer at [AHDCO](https://ahdco.co/)
 - 🤘 Passionate about building, learning, helping & hacking
 - 🧠 Languages: PHP, Python, JS, React, …curious about everything
 - 🍊 Favorite tech: Colorful UIs, clean APIs, fun side-projects
