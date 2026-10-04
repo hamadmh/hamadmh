@@ -18,7 +18,7 @@
 
 ## 👋 About Me
 
-I'm a **Business Solutions Architect & Developer at [AHDCO](https://ahdco.co/)** in Kurdistan. I design and build the software that businesses run on, from web platforms and mobile apps to ERP, CRM and other enterprise systems, and I lead a small team of developers along the way.
+I'm a **Business Solutions Architect & Developer at [AHDCO](https://ahdco.co/)** in Kurdistan. I design and build the software that businesses run on, from web platforms and mobile apps to ERP, CRM and other enterprise systems, and I lead a dev team along the way.
 
 My role is broad: I turn business needs into clear architecture, then help ship it. I like clean APIs, colorful UIs and systems that stay simple as they grow.
 
